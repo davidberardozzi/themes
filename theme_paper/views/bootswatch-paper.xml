@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<openerp>
+<odoo>
 <data>
 
 <template id="theme_customize" inherit_id="website.theme_customize" name="theme_customize Paper">
@@ -52,10 +52,10 @@
 
             <link rel='stylesheet' href='/theme_paper/static/src/css/bootswatch-paper.css' t-ignore="true"/>
 
-            <!-- not working
+
             <link rel="stylesheet" type="text/less" href='/theme_paper/static/src/less/paper-bootswatch.less' t-ignore="true"/>
             <link rel="stylesheet" type="text/less" href='/theme_paper/static/src/less/paper-variables.less' t-ignore="true"/>
-            -->
+
             
         </xpath>
             <!-- Refresh menu -->
@@ -78,4 +78,4 @@
     <!-- END Theme Default -->
 
   </data>
-</openerp>
+</odoo>
