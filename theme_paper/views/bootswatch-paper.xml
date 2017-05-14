@@ -51,11 +51,11 @@
         <xpath expr="." position="inside">
 
             <link rel='stylesheet' href='/theme_paper/static/src/css/bootswatch-paper.css' t-ignore="true"/>
-
+<!--
 
             <link rel="stylesheet" type="text/less" href='/theme_paper/static/src/less/paper-bootswatch.less' t-ignore="true"/>
             <link rel="stylesheet" type="text/less" href='/theme_paper/static/src/less/paper-variables.less' t-ignore="true"/>
-
+-->
             
         </xpath>
             <!-- Refresh menu -->
